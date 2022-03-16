@@ -1,0 +1,7 @@
+
+OkuruBot/appsettings.json
+.idea/
+OkuruBot/appsettings.Development.json
+OkuruBot/bin/
+OkuruBot/obj/
+*.DotSettings
